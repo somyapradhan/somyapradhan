@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyapradhan&label=Profile%20views&color=0e75b6&style=flat" alt="somyapradhan" /> </p>
 
-- 🔭 I’m currently working on **Salesforce Applications**
+- 🔭 I’m currently working on **building AI solutions for Salesforce Applications**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **System Design and Generative AI**
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
